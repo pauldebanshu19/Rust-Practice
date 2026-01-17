@@ -119,4 +119,3 @@ Execute all tests in `solutions` folder
 find topics -type d -name solutions -exec bash -c 'cd "$0" && cargo test' {} \;
 ```
 # Rust-Practice
-# Rust-Practice
